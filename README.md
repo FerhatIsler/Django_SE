@@ -1,2 +1,3 @@
 # Django_SE
-Django development processes
+Software Dersim için Django ve Html çalışmam 
+
